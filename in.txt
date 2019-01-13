@@ -1,0 +1,9 @@
+PROGRAM Exemplul_1 
+VAR a1,a2,a3: INTEGER;
+b1,b2,b3: INTEGER
+BEGIN
+a1:=10;
+a2:=(a1+2)*(b3-1);
+b1:=5
+END
+
